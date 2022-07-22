@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NewsGenerator</string>
+    <string name="news">NEWS</string>
+    <string name="search">Search</string>
+    <string name="title">TITLE</string>
+    <string name="source">Source</string>
+    <string name="date">Date</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="description">Description</string>
+</resources>

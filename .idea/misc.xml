@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Yuli/Desktop/NewsGenerator/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1335" />
+        <entry key="..\:/Users/Yuli/Desktop/NewsGenerator/app/src/main/res/drawable/black_background.xml" value="0.141" />
+        <entry key="..\:/Users/Yuli/Desktop/NewsGenerator/app/src/main/res/drawable/gradient.xml" value="0.141" />
+        <entry key="..\:/Users/Yuli/Desktop/NewsGenerator/app/src/main/res/drawable/ic_baseline_arrow_back_ios_new_24.xml" value="0.1335" />
+        <entry key="..\:/Users/Yuli/Desktop/NewsGenerator/app/src/main/res/drawable/ic_baseline_photo_24.xml" value="0.1335" />
+        <entry key="..\:/Users/Yuli/Desktop/NewsGenerator/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.141" />
+        <entry key="..\:/Users/Yuli/Desktop/NewsGenerator/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1335" />
+        <entry key="..\:/Users/Yuli/Desktop/NewsGenerator/app/src/main/res/drawable/round_shape.xml" value="0.172" />
+        <entry key="..\:/Users/Yuli/Desktop/NewsGenerator/app/src/main/res/drawable/splash.xml" value="0.1335" />
+        <entry key="..\:/Users/Yuli/Desktop/NewsGenerator/app/src/main/res/font/font.xml" value="0.20989583333333334" />
+        <entry key="..\:/Users/Yuli/Desktop/NewsGenerator/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Yuli/Desktop/NewsGenerator/app/src/main/res/layout/fragment_news_details.xml" value="0.21518987341772153" />
+        <entry key="..\:/Users/Yuli/Desktop/NewsGenerator/app/src/main/res/layout/fragment_news_list.xml" value="0.22" />
+        <entry key="..\:/Users/Yuli/Desktop/NewsGenerator/app/src/main/res/layout/fragment_splash_screen.xml" value="0.1796875" />
+        <entry key="..\:/Users/Yuli/Desktop/NewsGenerator/app/src/main/res/layout/news_item.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
